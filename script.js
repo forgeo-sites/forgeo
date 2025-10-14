@@ -1,0 +1,1 @@
+console.log('🏢 Business site loaded!');
